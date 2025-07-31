@@ -12,6 +12,6 @@ int main(){
       bin+= (rem*pow);
       pow*=10;
    }
-   cout<<bin<<endl;
+   cout<<"the binary is "<<bin<<endl;
    return 0;
 }
